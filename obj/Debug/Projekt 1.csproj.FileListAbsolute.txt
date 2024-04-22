@@ -1,0 +1,15 @@
+C:\Users\edgar\Desktop\C#\Projekt 1\bin\Debug\Projekt 1.exe.config
+C:\Users\edgar\Desktop\C#\Projekt 1\bin\Debug\Projekt 1.exe
+C:\Users\edgar\Desktop\C#\Projekt 1\bin\Debug\Projekt 1.pdb
+C:\Users\edgar\Desktop\C#\Projekt 1\obj\Debug\Projekt 1.csproj.AssemblyReference.cache
+C:\Users\edgar\Desktop\C#\Projekt 1\obj\Debug\Projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Desktop\C#\Projekt 1\obj\Debug\Projekt 1.exe
+C:\Users\edgar\Desktop\C#\Projekt 1\obj\Debug\Projekt 1.pdb
+D:\C#\Projekt 1\bin\Debug\Projekt 1.exe.config
+D:\C#\Projekt 1\bin\Debug\Projekt 1.exe
+D:\C#\Projekt 1\bin\Debug\Projekt 1.pdb
+D:\C#\Projekt 1\obj\Debug\Projekt 1.csproj.AssemblyReference.cache
+D:\C#\Projekt 1\obj\Debug\Projekt 1.csproj.SuggestedBindingRedirects.cache
+D:\C#\Projekt 1\obj\Debug\Projekt 1.csproj.CoreCompileInputs.cache
+D:\C#\Projekt 1\obj\Debug\Projekt 1.exe
+D:\C#\Projekt 1\obj\Debug\Projekt 1.pdb
